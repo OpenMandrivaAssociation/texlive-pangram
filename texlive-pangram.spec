@@ -1,6 +1,6 @@
 Name:		texlive-pangram
 Version:	64783
-Release:	1
+Release:	2
 Summary:	A LaTeX package for testing fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pangram
