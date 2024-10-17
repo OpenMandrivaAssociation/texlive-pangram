@@ -3,7 +3,7 @@ Version:	66300
 Release:	1
 Summary:	A LaTeX package for testing fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pangram
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pangram
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pangram.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pangram.doc.r%{version}.tar.xz
